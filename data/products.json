@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Running Shoes", "description": "Lightweight shoes for daily running", "price": 49.99 },
+  { "id": 2, "name": "Trail Shoes", "description": "Durable shoes for trail running and hiking", "price": 59.99 },
+  { "id": 3, "name": "Fitness Watch", "description": "Smartwatch to track heart rate and workouts", "price": 99.99 },
+  { "id": 4, "name": "Yoga Mat", "description": "Eco-friendly yoga mat with extra grip", "price": 19.99 },
+  { "id": 5, "name": "Dumbbells", "description": "Adjustable dumbbells for strength training", "price": 29.99 },
+  { "id": 6, "name": "Resistance Bands", "description": "Set of resistance bands for home workouts", "price": 15.99 },
+  { "id": 7, "name": "Smart Scale", "description": "Digital scale with body fat tracking", "price": 39.99 },
+  { "id": 8, "name": "Treadmill", "description": "Foldable treadmill for indoor cardio", "price": 399.99 },
+  { "id": 9, "name": "Foam Roller", "description": "Muscle recovery foam roller", "price": 12.49 },
+  { "id": 10, "name": "Water Bottle", "description": "Insulated water bottle for gym use", "price": 9.99 },
+  { "id": 11, "name": "Running Shorts", "description": "Breathable shorts with phone pocket", "price": 24.99 },
+  { "id": 12, "name": "Wireless Earbuds", "description": "Noise-cancelling earbuds for workouts", "price": 69.99 },
+  { "id": 13, "name": "Sports Bra", "description": "Supportive bra for high-intensity training", "price": 34.99 },
+  { "id": 14, "name": "Pull-Up Bar", "description": "Doorway pull-up bar for upper body workouts", "price": 22.99 },
+  { "id": 15, "name": "Jump Rope", "description": "Speed rope for cardio and warmups", "price": 7.99 }
+]
